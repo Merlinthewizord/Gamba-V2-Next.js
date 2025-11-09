@@ -27,20 +27,20 @@ export const LIVE_EVENT_TOAST = true;
 
 export const FOOTER_LINKS = [
   {
-    href: "https://github.com/BankkRoll/Gamba-V2-Next.js",
-    title: "👨‍💻 Build your own",
+    href: "https://world.trenchdotworld.com",
+    title: "Join Trench World",
   },
   {
-    href: "https://explorer.gamba.so/create",
-    title: "🚀 Create Pool",
+    href: "https://trenchdotworld.com",
+    title: "Create Token",
   },
   {
-    href: "https://gamba.so/docs",
-    title: "📖 Gamba Docs",
+    href: "https://x.com/trenchdotworld",
+    title: "Our Twitter",
   },
   {
-    href: "https://discord.com/invite/HSTtFFwR",
-    title: "💬 Join Discord",
+    href: "https://t.me/Trenchworldonline",
+    title: "💬 Join Teleghram",
   },
 ];
 
@@ -56,16 +56,16 @@ export const FOOTER_TWITTER_LINK = {
  ******************************************/
 
 export const BASE_SEO_CONFIG = {
-  defaultTitle: "Gamba - NEXTjs Demo",
+  defaultTitle: "The Trench Casino",
   description:
-    "The gambleFi protocol with end-to-end tools for on-chain degeneracy on Solana.",
+    "The Casino built within Trench World",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://play-gamba.vercel.app/",
-    title: "Gamba - NEXTjs Demo",
+    title: "The Trench Casino",
     description:
-      "The gambleFi protocol with end-to-end tools for on-chain degeneracy on Solana.",
+      "The Casino built within Trench Worlda.",
     images: [
       {
         url: "https://play-gamba.vercel.app/seo.png",
