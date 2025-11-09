@@ -90,7 +90,8 @@ export default function HomePage() {
               onClick={() => window.open("https://t.me/trenchworldonline")}
               className="rounded-lg p-3 bg-white hover:bg-gray-200 hover:-translate-y-0.5 transform text-black transition-all duration-200 ease-in-out cursor-pointer shadow-lg hover:shadow-xl"
             >
-        
+         💬 Join Discord
+            </button>
           </div>
         </div>
         <h2 className="text-2xl font-bold text-center">Games</h2>
